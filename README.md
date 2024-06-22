@@ -1,1 +1,1 @@
-# Traffic-sign-recodnition-yolov8
+# Traffic-sign-recognition-yolov8
